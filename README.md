@@ -1,2 +1,2 @@
-# Ev_charging_prediction
-### AICTE Internship Cycle 1
+# EV Charging Prediction
+AICTE Internship – Cycle 1
